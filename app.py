@@ -186,4 +186,4 @@ if uploaded_file:
                 )
 
 else:
-    st.info("Upload your cleaned food nutrition CSV file to get started.")
+    st.info("Upload your food nutrition CSV file to get started.")
